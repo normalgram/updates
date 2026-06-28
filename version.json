@@ -1,9 +1,9 @@
 {
   "android": {
-    "latest": "A.0.60.10",
+    "latest": "A.0.60.11",
     "minimum": "0.1.0",
-    "installer_url": "https://github.com/normalgram/updates/releases/download/builds/Normalgram-A.0.60.10.apk",
-    "notes": "A.0.60.10: обновления теперь через GitHub (независимость от сервера)"
+    "installer_url": "https://github.com/normalgram/updates/releases/download/builds/Normalgram-A.0.60.11.apk",
+    "notes": "A.0.60.11: обновление устанавливается прямо в приложении (без браузера), как в Telegram"
   },
   "desktop": {
     "latest": "0.1.86",
