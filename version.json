@@ -1,9 +1,9 @@
 {
   "android": {
-    "latest": "A.0.60.13",
+    "latest": "A.0.60.14",
     "minimum": "0.1.0",
-    "installer_url": "https://github.com/normalgram/updates/releases/download/builds/Normalgram-A.0.60.13.apk",
-    "notes": "A.0.60.13: прогресс трека в шторке (время/длительность) + фикс смещения низа на старте"
+    "installer_url": "https://github.com/normalgram/updates/releases/download/builds/Normalgram-A.0.60.14.apk",
+    "notes": "A.0.60.14: перемотка трека в шторке и в плеер-карточке + время трека; контент больше не обрезается снизу"
   },
   "desktop": {
     "latest": "0.1.87",
