@@ -1,14 +1,14 @@
 {
   "android": {
-    "latest": "A.0.60.12",
+    "latest": "A.0.60.13",
     "minimum": "0.1.0",
-    "installer_url": "https://github.com/normalgram/updates/releases/download/builds/Normalgram-A.0.60.12.apk",
-    "notes": "A.0.60.12: прогресс обновления виден из любого места (Настройки/баннер)"
+    "installer_url": "https://github.com/normalgram/updates/releases/download/builds/Normalgram-A.0.60.13.apk",
+    "notes": "A.0.60.13: прогресс трека в шторке (время/длительность) + фикс смещения низа на старте"
   },
   "desktop": {
     "latest": "0.1.87",
     "minimum": "0.1.0",
     "installer_url": "https://github.com/normalgram/updates/releases/download/builds/NormalgramSetup-0.1.87.exe",
-    "notes": "0.1.87: прогресс обновления виден из любого места (Настройки/баннер)"
+    "notes": "0.1.87: прогресс обновления виден из любого места"
   }
 }
