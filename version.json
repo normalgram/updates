@@ -1,14 +1,14 @@
 {
   "android": {
-    "latest": "A.0.60.15",
+    "latest": "A.0.60.16",
     "minimum": "0.1.0",
-    "installer_url": "http://195.201.243.85:8080/Normalgram-A.0.60.15.apk",
-    "notes": "A.0.60.15: вернул fullscreen + контент не обрезается под системными барами (отступы)"
+    "installer_url": "http://195.201.243.85:8080/Normalgram-A.0.60.16.apk",
+    "notes": "A.0.60.16: низ как в .13 (fullscreen без лишних отступов) + перемотка/время трека"
   },
   "desktop": {
     "latest": "0.1.87",
     "minimum": "0.1.0",
     "installer_url": "http://195.201.243.85:8080/NormalgramSetup-0.1.87.exe",
-    "notes": "0.1.87: прогресс обновления виден из любого места"
+    "notes": "0.1.87"
   }
 }
