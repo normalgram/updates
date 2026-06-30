@@ -1,14 +1,14 @@
 {
   "android": {
-    "latest": "A.0.60.37",
+    "latest": "A.0.60.46",
     "minimum": "0.1.0",
-    "installer_url": "http://195.201.243.85:8080/Normalgram-A.0.60.37.apk",
-    "notes": "A.0.60.37: защита от двойного тапа кнопки обновления"
+    "installer_url": "http://195.201.243.85:8080/Normalgram-A.0.60.46.apk",
+    "notes": "A.0.60.46: Библиотека (без ятевой i)"
   },
   "desktop": {
-    "latest": "0.1.89.2",
+    "latest": "0.1.89.3",
     "minimum": "0.1.0",
-    "installer_url": "http://195.201.243.85:8080/NormalgramSetup-0.1.89.2.exe",
-    "notes": "0.1.89.2: значок громкости как в мини-плеере"
+    "installer_url": "http://195.201.243.85:8080/NormalgramSetup-0.1.89.3.exe",
+    "notes": "0.1.89.3: Библиотека (без ятевой i)"
   }
 }
